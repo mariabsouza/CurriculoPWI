@@ -16,4 +16,4 @@ https://mariabsouza.github.io/CurriculoEtec/
 * Canva
 * Google Fonts
 
-![Screenshot](screenshot.jpg)
+![Screenshot](assts/img/screenshot.jpg)
