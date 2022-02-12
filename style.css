@@ -30,32 +30,32 @@ header {
 img {
   position: relative;
   border-radius: 50%;
-  width: 65%;
   right: 12rem;
   z-index: 1;
 }
 .img {
   display: flex;
   align-items: center;
-
+  max-width: 50%;
 }
 
 .rectangle {
-  background-color: #E5C5D0;
+  background-color: #e5c5d0;
   width: 25rem;
-  height: 28rem;
- 
+  height: 25rem;
+
   z-index: 0;
-  
 }
 
 h1 {
-  font: 500 3rem Poppins;
+  font: 500 2rem Poppins;
   text-transform: uppercase;
   color: #555555;
 }
 
-
+.text {
+  max-width: 50%;
+}
 
 /* ==== BODY ====== */
 
@@ -69,13 +69,13 @@ section {
 }
 
 h2 {
-  font: 400 1.5rem Poppins;
+  font: 400 1.3rem Poppins;
   color: #e5c5d0;
   text-transform: uppercase;
   margin-top: 2rem;
 }
 
 p {
-  font: 300 1.3rem Assistant;
+  font: 300 1rem Assistant;
   color: #555555;
 }
